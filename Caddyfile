@@ -1,0 +1,8 @@
+coderv2.ericpaulsen.io {
+    reverse_proxy localhost:3000
+    tls {
+        issuer acme {
+            email eric@coder.com
+        }
+    }
+}
