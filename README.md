@@ -1,6 +1,6 @@
 # Deploying Coder OSS
 
-This repo includes the setup for my [Coder OSS](https://github.com/coder/coder) deployment. Makes use of an external PostgreSQL DB, a Caddy server, and a GitHub OAuth application.
+This repo includes the setup for my [Coder OSS](https://github.com/coder/coder) deployment. It makes use of an external PostgreSQL DB, a Caddy server, and a GitHub OAuth application.
 
 ## Dependencies
 
